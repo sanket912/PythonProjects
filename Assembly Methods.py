@@ -1,4 +1,5 @@
 # This Program will calculate the Assembly method required
+# Updated now
 
 NP = int(input("The Total Number of Products Made, NP: "))  # Can only be equal to one.
 if NP == 1:
